@@ -1,6 +1,6 @@
 ﻿# NebilI.r-universe.dev
 
-r-universe registry for **seurust**.
+r-universe registry for **seurust** and **harmorust**.
 
 Dashboard: https://NebilI.r-universe.dev/seurust
 
